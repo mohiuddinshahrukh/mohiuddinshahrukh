@@ -11,7 +11,7 @@
 - **Frontend**: React.js, Angular, Material UI, Mantine UI, Bootstrap  
 - **Design**: Figma, Storybook  
 - **Backend**: Node.js, Express, .NET (C#)  
-- **Tools & Testing**: Git, Postman, React Testing Library, Cypress, Vercel  
+- **Tools & Testing**: Git, Postman, Vercel, Unit Testing, Usecase Testing, E2E Testing
 - **Other**: REST APIs, Socket.io, OAuth, Stripe  
 
 ---
