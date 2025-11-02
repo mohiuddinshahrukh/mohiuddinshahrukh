@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Shahrukh
-🎓 Doing Now => pursuing Cognitive Systems: Language, Learning & Reasoning at University of Potsdam. //
-💻 Experience => Frontend-focused but full-stack developer. //
-🌍 Where now => Berlin, Germany  //
+🎓 Doing Now => pursuing Cognitive Systems: Language, Learning & Reasoning at University of Potsdam.
+
+💻 Experience => Frontend-focused but full-stack developer.
+
+🌍 Where now => Berlin, Germany
 
 ---
 
