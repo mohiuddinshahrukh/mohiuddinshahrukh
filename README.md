@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Shahrukh Mohiuddin
+# 👋 Hi, I'm Shahrukh,
 
-🎓 Graduate student in Cognitive Systems at University of Potsdam  
-💻 Frontend-focused developer with a passion for building modern, clean, and interactive web interfaces  
+🎓 Masters student pursuing Cognitive Systems: Language, Learning & Reasoning at University of Potsdam. 
+💻 Frontend-focused but full-stack developer.
 🌍 Currently based in Potsdam/Berlin, Germany  
 
 ---
@@ -13,7 +13,7 @@
 - **Backend**: Node.js, Express, .NET (C#)  
 - **Tools & Testing**: Git, Postman, Vercel, Unit Testing, Usecase Testing, E2E Testing
 - **Other**: REST APIs, Socket.io, OAuth, Stripe  
-
+- **Also**: WIX designing and developing.
 ---
 
 ## 🛠️ Projects & Contributions
@@ -28,7 +28,6 @@
 ## 📫 Contact
 
 📧 mohiuddinshahrukh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shahrukh-m-a95849a3/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohiuddinshahrukh)  
 🌐 [Portfolio](https://github.com/mohiuddinshahrukh)
 
-Thanks for stopping by!
