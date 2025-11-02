@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Shahrukh,
-
+# 👋 Hi, I'm Shahrukh
 🎓 Masters student pursuing Cognitive Systems: Language, Learning & Reasoning at University of Potsdam. 
 💻 Frontend-focused but full-stack developer.
 🌍 Currently based in Potsdam/Berlin, Germany  
+
+---
+
+## 📫 Contact
+📧 mohiuddinshahrukh@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohiuddinshahrukh)  
+🌐 [Portfolio](https://github.com/mohiuddinshahrukh)
 
 ---
 
@@ -24,10 +30,4 @@
 - 💍 **AWEP (Final Year Project)** – Automated Wedding Event Planner with multi-user roles, payments, and live chat  ([Live Site](https://awep-react.vercel.app/))
 
 ---
-
-## 📫 Contact
-
-📧 mohiuddinshahrukh@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohiuddinshahrukh)  
-🌐 [Portfolio](https://github.com/mohiuddinshahrukh)
 
