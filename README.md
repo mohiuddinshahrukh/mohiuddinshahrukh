@@ -30,6 +30,7 @@
 - 📦 **GMDC Admin** – A lightweight admin dashboard built with React and Mantine UI ([Live Site](https://gmdc-admin.vercel.app/))  
 - 🎭 **Faces2Hire** – A talent showcase platform with live interactions ([Live Site](https://faces2hire.vercel.app/))  
 - 💍 **AWEP (Final Year Project)** – Automated Wedding Event Planner with multi-user roles, payments, and live chat  ([Live Site](https://awep-react.vercel.app/))
+- **CafeAlice** - https://www.cafe-alice.de/
 
 ---
 
