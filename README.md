@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Shahrukh
-🎓 Doing Now => pursuing Cognitive Systems: Language, Learning & Reasoning at University of Potsdam.
-
-💻 Experience => Frontend-focused but full-stack developer.
-
-🌍 Where now => Berlin, Germany
+M.Sc. student in Cognitive Systems (Language, Learning, and Reasoning) at the University of Potsdam with a Computer Science background. Experience designing and evaluating multilingual, human-in-the-loop LLM systems, including dialogue benchmarks and behavioural evaluation pipelines. Seeking student research assistant or applied AI research roles.
 
 ---
 
